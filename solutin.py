@@ -1,5 +1,5 @@
 class ListNode:
-    def __init__(sefl, val: int | float):
+    def __init__(self, val: int | float):
         self.val: int | float = val
         self.next: ListNode = None
 
